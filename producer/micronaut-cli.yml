@@ -1,0 +1,5 @@
+profile: rabbitmq
+defaultPackage: org.codedesigner.micronaut
+---
+testFramework: junit
+sourceLanguage: java
